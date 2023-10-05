@@ -1,2 +1,1 @@
-# 24300_MugishaThierry_Software_Modeling
 Software Modeling and Design Assignment
